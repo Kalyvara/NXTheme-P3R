@@ -1,5 +1,7 @@
 # Evoker Reloaded - Persona 3 Reload NXTheme
 
+Fellow Persona enthusiasts, maybe this will please you.
+
 ## [Download on Themezer](https://themezer.net/packs/Evoker-Reloaded-Persona-3-Reload-746)
 
 ![Image](screenshots/h1.jpg)
