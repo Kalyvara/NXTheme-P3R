@@ -27,7 +27,7 @@ This project was made on a whim, sort of as a commemoration of P3R's release - I
 
 ![Image](screenshots/u.jpg)
 
-## Lock Screen
+### Lock Screen
 
 ![Image](screenshots/l.jpg)
 
