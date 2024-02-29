@@ -6,7 +6,7 @@
 
 Yet another NXTheme project, this time around inspired by Persona 3 Reload. I tried my best to capture the stylish feel of P3R's gorgeous UI with custom assets and fancy animations. This is probably my most ambitious release yet as it involved both Switch theming techniques and more demanding Photoshop skills than usual.
 
-This project was made on a whim, sort of as a commemoration of P3R's release - I don't intend to maintain it seriously, nor do I have the time.
+This project was made on a whim, sort of as a commemoration of P3R's release - I don't intend to maintain it seriously, nor do I have the time, so I won't guarantee issue reports will be taken care of immediately, if ever.
 
 ## Showcase
 
