@@ -10,6 +10,8 @@ Yet another NXTheme project, this time around inspired by Persona 3 Reload. I tr
 
 This project was made on a whim, sort of as a commemoration of P3R's release - I don't intend to maintain it seriously, nor do I have the time, so I won't guarantee issue reports will be taken care of immediately, if ever.
 
+**Make sure to enable dark mode in System Settings.**
+
 ## Showcase
 
 ### Home Screen
