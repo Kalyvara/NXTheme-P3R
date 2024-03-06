@@ -2,7 +2,7 @@
 
 Fellow Persona enthusiasts, maybe this will please you.
 
-![Image](screenshots/h1.jpg)
+![Image](screenshots/h4.jpg)
 
 ## [Download on Themezer](https://themezer.net/packs/Evoker-Reloaded-Persona-3-Reload-746)
 
@@ -14,8 +14,9 @@ This project was made on a whim, sort of as a commemoration of P3R's release - I
 
 ## Showcase
 
-### Home Screen
+### Home Screen (2nd layout)
 
+![Image](screenshots/h1.jpg)
 ![Image](screenshots/h2.jpg)
 ![Image](screenshots/h3.jpg)
 
