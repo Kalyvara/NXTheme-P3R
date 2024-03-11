@@ -35,9 +35,18 @@ This project was made on a whim, sort of as a commemoration of P3R's release - I
 ### All Software
 
 ![Image](screenshots/a1.jpg)
+
 ![Image](screenshots/a2.jpg)
 ![Image](screenshots/a3.jpg)
 
 ### Player Selection
 
 ![Image](screenshots/p.jpg)
+
+## Credits
+
+- **Artworks used are the property of Atlus**
+- **Custom assets:** applet background images, Gekkoukan icon
+- **Fonts:**
+  - **UI:** AktivGrotesk (new theme), News of the World (old theme)
+  - **S.E.E.S. logo:** Dutch811BT, Libre Caslon Text
