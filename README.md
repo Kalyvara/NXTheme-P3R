@@ -3,6 +3,7 @@
 Fellow Persona enthusiasts, maybe this will please you.
 
 ![Image](screenshots/h4.jpg)
+![Image](screenshots/l2.jpg)
 
 ## [Download on Themezer](https://themezer.net/packs/Evoker-Reloaded-Persona-3-Reload-746)
 
@@ -30,6 +31,7 @@ This project was made on a whim, sort of as a commemoration of P3R's release - I
 
 ### Lock Screen
 
+![Image](screenshots/l3.jpg)
 ![Image](screenshots/l.jpg)
 
 ### All Software
@@ -48,5 +50,5 @@ This project was made on a whim, sort of as a commemoration of P3R's release - I
 - **Artworks used are the property of Atlus**
 - **Custom assets:** applet background images, Gekkoukan icon
 - **Fonts:**
-  - **UI:** AktivGrotesk (new theme), News of the World (old theme)
+  - **UI:** AktivGrotesk (new font), News of the World (old font)
   - **S.E.E.S. logo:** Dutch811BT, Libre Caslon Text
